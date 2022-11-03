@@ -41,7 +41,7 @@
 3. Open qt5ct and select custom as your pallete provider.
 4. Select the color scheme you copied from the dropdown menu and hit apply.
 
-## 🙋 FAQ (optional)
+## 🙋 FAQ
 
 -	Q: **_"Can I change the accent color?"_**\
 	A: Yes, it is possible to change the accent color. You will need to click the three dots button (•••) besides the theme selection dropdown menu and select edit theme, then scroll down and change the `Highlight` color for **only the Active part.**
