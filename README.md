@@ -12,32 +12,32 @@
 </p>
 
 <p align="center">
-	<img width=500 src="images/preview.png"/>
+	<img width=500 src="assets/preview.png"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img width=500 src="images/latte.png"/> 
+<img width=500 src="assets/latte.png"/> 
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img width=500 src="images/frappe.png"/> 
+<img width=500 src="assets/frappe.png"/> 
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img width=500 src="images/macchiato.png"/> 
+<img width=500 src="assets/macchiato.png"/> 
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img width=500 src="images/mocha.png"/> 
+<img width=500 src="assets/mocha.png"/> 
 </details>
 
 ## Usage
 
 1. Clone this repository locally
-2. Copy your favorite color scheme (For example: `Catppuccin-Mocha.conf`) in the folder `~/.config/qt5ct/colors/` (Create the folder if it doesn't exist)
+2. Copy your favorite color scheme (For example: `Catppuccin-Mocha.conf`) from the `themes` folder in `~/.config/qt5ct/colors/` (Create the folder if it doesn't exist)
 3. Open qt5ct and select custom as your pallete provider.
 4. Select the color scheme you copied from the dropdown menu and hit apply.
 
