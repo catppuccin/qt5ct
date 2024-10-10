@@ -2,4 +2,4 @@ _default:
   @just --list
 
 build:
-  whiskers obs.tera
+  whiskers qt5ct.tera
