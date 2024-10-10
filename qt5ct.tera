@@ -4,7 +4,7 @@ whiskers:
   matrix:
     - flavor
     - accent
-  filename: "themes/qt5ct/Catppuccin-{{ flavor.identifier | capitalize }}-{{accent | capitalize }}.conf"
+  filename: "themes/Catppuccin-{{ flavor.identifier | capitalize }}-{{accent | capitalize }}.conf"
   hex_format: "#{{a}}{{r}}{{g}}{{b}}"
 ---
 {%- set a_overlay0 = overlay0 | mod(opacity=0.5) -%}
