@@ -37,17 +37,14 @@
 ## Usage
 
 1. Clone this repository locally
-2. Copy your favorite color scheme (For example: `Catppuccin-Mocha.conf`) from the `themes` folder in `~/.config/qt5ct/colors/` (Create the folder if it doesn't exist)
+2. Copy your favorite color scheme and accent (For example: `catppuccin-mocha-mauve.conf`) from the `themes` folder in `~/.config/qt5ct/colors/` (Create the folder if it doesn't exist)
 3. Open qt5ct and select custom as your pallete provider.
 4. Select the color scheme you copied from the dropdown menu and hit apply.
 
 ## 🙋 FAQ
 
--	Q: **_"Can I change the accent color?"_**\
-	A: Yes, it is possible to change the accent color. You will need to click the three dots button (•••) besides the theme selection dropdown menu and select edit theme, then scroll down and change the `Highlight` color for **only the Active part.**
-
--	Q: **_"How can I make it look like the one in the screenshots?"_**\
-	A: You will need to install [Lightly](https://github.com/Luwx/Lightly) as the application style and then change the style to Lightly in qt5ct.
+- Q: **_"How can I make it look like the one in the screenshots?"_**\
+  A: You will need to install [Lightly](https://github.com/Luwx/Lightly) as the application style and then change the style to Lightly in qt5ct.
 
 ## 💝 Thanks to
 
