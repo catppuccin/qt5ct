@@ -37,8 +37,8 @@
 ## Usage
 
 1. Clone this repository locally
-2. Copy your favorite color scheme and accent (For example: `catppuccin-mocha-mauve.conf`) from the `themes` folder in `~/.config/qt5ct/colors/` (Create the folder if it doesn't exist)
-3. Open qt5ct and select custom as your pallete provider.
+2. Copy your favorite color scheme and accent (For example: `catppuccin-mocha-mauve.conf`) from the `themes` folder in `~/.config/qt5ct/colors/` or `~/.config/qt6ct/colors/` (Create the folder if it doesn't exist)
+3. Open qt5ct or qt6ct and select custom as your pallete provider.
 4. Select the color scheme you copied from the dropdown menu and hit apply.
 
 ## 🙋 FAQ
