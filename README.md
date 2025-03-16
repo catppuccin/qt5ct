@@ -44,7 +44,7 @@
 ## 🙋 FAQ
 
 - Q: **_"How can I make it look like the one in the screenshots?"_**\
-  A: You will need to install [Lightly](https://github.com/Luwx/Lightly) as the application style and then change the style to Lightly in qt5ct.
+  A: You will need to install [Darkly](https://github.com/Bali10050/Darkly) as the application style and then change the style to Darkly in qt5ct.
 
 ## 💝 Thanks to
 
